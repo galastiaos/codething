@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+clip=$(copyq clipboard)
+rm main.c
+touch main.c
+echo "$clip" >> main.c
+./compile

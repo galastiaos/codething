@@ -1,0 +1,5 @@
+IDEA:
+Linear object: Accept  transformation over duration of video. Example:
+Transform a point over a parabola y=a(x-h)^2+k and display t as the bounds.
+ls:q
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745094164 source:/home/mrcodester/code/c/checkers/main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
