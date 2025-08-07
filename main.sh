@@ -1,7 +1,7 @@
 #!/bin/bash
 
-CENTER_X=500
-CENTER_Y=1000
+CENTER_X=364
+CENTER_Y=803
 RADIUS=200
 STEPS=60      # More steps = smoother circle
 DURATION=10   # ms for each swipe
